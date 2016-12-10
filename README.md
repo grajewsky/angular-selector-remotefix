@@ -1,5 +1,5 @@
 # Angular Selector
-Original module author [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/indrimuska/angular-selector?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Original module author [http://indrimuska.github.io/angular-selector](http://indrimuska.github.io/angular-selector)
 
 [![NPM version](http://img.shields.io/npm/v/angular-selector.svg?style=flat)](https://npmjs.org/package/angular-selector)
 [![NPM downloads](http://img.shields.io/npm/dm/angular-selector.svg?style=flat)](https://npmjs.org/package/angular-selector)
