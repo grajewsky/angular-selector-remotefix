@@ -1,0 +1,102 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "angular-selector@^1.5.0",
+        "scope": null,
+        "escapedName": "angular-selector",
+        "name": "angular-selector",
+        "rawSpec": "^1.5.0",
+        "spec": ">=1.5.0 <2.0.0",
+        "type": "range"
+      },
+      "D:\\studenciak"
+    ]
+  ],
+  "_from": "angular-selector@>=1.5.0 <2.0.0",
+  "_id": "angular-selector@1.5.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular-selector",
+  "_nodeVersion": "6.2.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/angular-selector-1.5.0.tgz_1472215189338_0.987579100066796"
+  },
+  "_npmUser": {
+    "name": "indrimuska",
+    "email": "indrimuska@gmail.com"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angular-selector@^1.5.0",
+    "scope": null,
+    "escapedName": "angular-selector",
+    "name": "angular-selector",
+    "rawSpec": "^1.5.0",
+    "spec": ">=1.5.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-selector/-/angular-selector-1.5.0.tgz",
+  "_shasum": "d885749cae9cca1925baafd3545b7cad8ccf2eff",
+  "_shrinkwrap": null,
+  "_spec": "angular-selector@^1.5.0",
+  "_where": "D:\\studenciak",
+  "author": {
+    "name": "Indri Muska",
+    "email": "indrimuska@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/indrimuska/angular-selector/issues"
+  },
+  "dependencies": {
+    "angular": "~1.4.4"
+  },
+  "description": "A native AngularJS directive that transform a simple `<select>` box into a full html select with typeahead.",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bumpup": "^0.6.2",
+    "grunt-contrib-copy": "^0.8.1",
+    "grunt-contrib-cssmin": "^0.13.0",
+    "grunt-contrib-uglify": "^0.9.2",
+    "grunt-eslint": "^18.0.0",
+    "grunt-header": "^1.1.0",
+    "grunt-sync-json": "^0.4.0",
+    "load-grunt-tasks": "^3.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "d885749cae9cca1925baafd3545b7cad8ccf2eff",
+    "tarball": "https://registry.npmjs.org/angular-selector/-/angular-selector-1.5.0.tgz"
+  },
+  "gitHead": "a83415a4a3570dcd7fc62c2bdb62cb3113603c26",
+  "homepage": "http://indrimuska.github.io/angular-selector",
+  "keywords": [
+    "select",
+    "angular",
+    "selector",
+    "directive",
+    "typeahead"
+  ],
+  "license": "MIT",
+  "main": "src/angular-selector.js",
+  "maintainers": [
+    {
+      "name": "indrimuska",
+      "email": "indrimuska@gmail.com"
+    }
+  ],
+  "name": "angular-selector",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indrimuska/angular-selector.git"
+  },
+  "scripts": {},
+  "version": "1.5.0"
+}
